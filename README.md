@@ -1,8 +1,10 @@
-# React + Vite
+📝 To-Do Board - Simple React Project
+Welcome to the To-Do Board project! 🎯 This is a beginner-friendly React app designed to help you get hands-on experience with React fundamentals while building something practical. 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:
+📋 Add tasks to your board
+🗑️ Delete tasks when they're done
+💅 Styled with Tailwind CSS for a clean and simple look
+Perfect for those just starting with React! 👨‍💻👩‍💻
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Feel free to clone the repo and make it your own! 💡
